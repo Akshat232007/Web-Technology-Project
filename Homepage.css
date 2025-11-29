@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #4311a1;
+    color: rgb(206, 228, 13);
+}
+
+
+.ribbon {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 40px;
+    background: #4311a1;
+}
+
+.Webname {
+    color: cyan;
+}
+
+.menu a {
+    color: white;
+    margin-left: 15px;
+}
+
+
+.Desc {
+    text-align: center;
+    margin-top: 80px;
+}
+
+
+.player {
+    background: cyan;
+    color: black;
+    padding: 10px 20px;
+    display: inline-block;
+    margin-top: 15px;
+    text-decoration: none;
+}
+
+
+.middle {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 50px;
+}
+
+.card {
+    background: #310a64;
+    padding: 20px;
+    border-radius: 10px;
+    width: 200px;
+    text-align: center;
+}
